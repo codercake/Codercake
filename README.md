@@ -1,89 +1,95 @@
-```plaintext
-╔════════════════════════ Hey There! ════════════════════════╗ 👩🏻‍💻 I'm Ishitha!
-║ My areas of interest include AI/ML, Full-stack Development,║ ┣━━ 💻 Web development
-║ Web Development, Cloud, Cyber Security, and exploring      ║ ┃   ┣━━ ⭐ JS/TS, React, Next, Node, MaterialUI
-║ various tech domains. I enjoy learning and working with    ║ ┃   ┣━━ ⭐ Python, Django, Flask, FastAPI, MongoDB
-║ different tools and technologies.                          ║ ┃   ┗━━ ⭐ C++, Java, PHP, 
-║                                                            ║ ┣━━ 🖌️ Figma, Canva
-║                                                            ║ ┣━━ 🤖 AI/ML/Generative AI, MVP
-╚════════════════════════════════════════════════════════════╝ ┗━━ 🔒 Cybersecurity
+<div align="center">
 
+```
+┌─────────────────────────────────────────────┐
+│  guest@github:~$ whoami                      │
+└─────────────────────────────────────────────┘
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=Ishitha+Jain;Software+Developer;1.3%2B+Years+of+Experience;Building+AI-integrated+web+apps" alt="Typing SVG" />
+
+</div>
+
+<br>
+
+```bash
+guest@github:~$ cat about.txt
+```
+```
+> software dev · 1.3+ yoe
+> ships production code across the frontend, backend, and db layer
+> currently wiring LLMs into real products
+```
+
+```bash
+guest@github:~$ ls -la connect/
+```
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://www.linkedin.com/in/ishitha-jain23)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:ishithaac2312@gmail.com)
+[![Dev.to](https://img.shields.io/badge/dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=39FF14)](https://dev.to/codercake)
+
+</div>
+
+<br>
+
+```bash
+guest@github:~$ cat tech_stack.json
+```
+
+```json
+{
+  "frontend":  ["React", "Next.js", "Angular", "TypeScript", "JavaScript", "Tailwind CSS"],
+  "backend":   ["Python", "FastAPI", "Flask", "Django", "Node.js", "Express.js"],
+  "database":  ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
+  "cloud_ops": ["AWS", "Docker", "Vercel", "Git"],
+  "ai_genai":  ["Claude AI / Anthropic SDK", "LLM API Integration", "Prompt Engineering"]
+}
 ```
 
 <div align="center">
-  <a href="https://dev.to/codercake" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
-  <a href="mailto:ishithaac2312@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/ishitha-chaudhary/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+![React](https://img.shields.io/badge/-React-000?style=flat-square&logo=react&logoColor=39FF14)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs&logoColor=39FF14)
+![Angular](https://img.shields.io/badge/-Angular-000?style=flat-square&logo=angular&logoColor=39FF14)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescript&logoColor=39FF14)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript&logoColor=39FF14)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-000?style=flat-square&logo=tailwindcss&logoColor=39FF14)
+<br>
+![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python&logoColor=39FF14)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?style=flat-square&logo=fastapi&logoColor=39FF14)
+![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask&logoColor=39FF14)
+![Django](https://img.shields.io/badge/-Django-000?style=flat-square&logo=django&logoColor=39FF14)
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat-square&logo=nodedotjs&logoColor=39FF14)
+![Express](https://img.shields.io/badge/-Express.js-000?style=flat-square&logo=express&logoColor=39FF14)
+<br>
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=39FF14)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat-square&logo=mongodb&logoColor=39FF14)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat-square&logo=mysql&logoColor=39FF14)
+![Redis](https://img.shields.io/badge/-Redis-000?style=flat-square&logo=redis&logoColor=39FF14)
+<br>
+![AWS](https://img.shields.io/badge/-AWS-000?style=flat-square&logo=amazonaws&logoColor=39FF14)
+![Docker](https://img.shields.io/badge/-Docker-000?style=flat-square&logo=docker&logoColor=39FF14)
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel&logoColor=39FF14)
+![Git](https://img.shields.io/badge/-Git-000?style=flat-square&logo=git&logoColor=39FF14)
+![Claude](https://img.shields.io/badge/-Claude_AI-000?style=flat-square&logo=anthropic&logoColor=39FF14)
+
 </div>
 
-____
+<br>
 
-### Languages and tools I know and have worked with :P
+```bash
+guest@github:~$ echo $STATUS
+```
+```
+> process running... open to software dev / backend / AI-integrated dev roles
+```
 
 <div align="center">
-  <img alt="Python 3" src="https://img.shields.io/badge/Python-37709F?style=for-the-badge&logo=python&logoColor=white" />
-<!--   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /> -->
-  <img alt="PyPI" src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white" />
-  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" />
-  <br>
-  <img alt="NumPy"src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img alt="SciPy" src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" />
-  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
-  <br>
-<!--   <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" /> -->
-  <img alt="Weigths and Biases" src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white" />
-  <br>
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
-  <img alt="Scikit Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <br>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <br>
-  <img alt="Next" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img alt="Vite" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
 
-  <br>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img alt="Chakra UI" src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" />
-  <img alt="Material UI" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-  <img alt="Shadcn UI" src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <br>
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="MySQl" src="https://img.shields.io/badge/MySQL-4375cc?&style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <br>
-  <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <br>
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-f05030?&style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="PowerShell" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+```
+guest@github:~$ _
+```
+
 </div>
-
-___
-<div align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=codercake&show_icons=true&count_private=true&theme=dark&hide_border=true&count=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=codercake&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <br>
-</div>
-
-
-
-
-
-
-
